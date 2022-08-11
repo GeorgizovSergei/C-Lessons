@@ -1,0 +1,15 @@
+B:\GB\C#\Homework\les1\hometask2\bin\Debug\net6.0\hometask2.exe
+B:\GB\C#\Homework\les1\hometask2\bin\Debug\net6.0\hometask2.deps.json
+B:\GB\C#\Homework\les1\hometask2\bin\Debug\net6.0\hometask2.runtimeconfig.json
+B:\GB\C#\Homework\les1\hometask2\bin\Debug\net6.0\hometask2.dll
+B:\GB\C#\Homework\les1\hometask2\bin\Debug\net6.0\hometask2.pdb
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.csproj.AssemblyReference.cache
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.GeneratedMSBuildEditorConfig.editorconfig
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.AssemblyInfoInputs.cache
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.AssemblyInfo.cs
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.csproj.CoreCompileInputs.cache
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.dll
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\refint\hometask2.dll
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.pdb
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\hometask2.genruntimeconfig.cache
+B:\GB\C#\Homework\les1\hometask2\obj\Debug\net6.0\ref\hometask2.dll
